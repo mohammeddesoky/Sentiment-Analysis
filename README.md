@@ -8,7 +8,7 @@ This project determine the sentiment of messages in relation to specific entitie
 
   -Message Classification:Classify messages as Positive, Negative, Neutral, or Irrelevant.
 
-  -Multiple ML Algorithms: K-Nearest Neighbors (KNN), Descision Tree (DT), Support Vector Machine (SVM), Logistic Regression (LR), and Random Forest (RF). 
+  -Multiple ML Algorithms: K-Nearest Neighbors (KNN), Naive Bayes (NB), Descision Tree (DT), Support Vector Machine (SVM), Logistic Regression (LR), and Random Forest (RF). 
 
   -Deployment: User-friendly GUI for inputting messages and displaying results.
 
