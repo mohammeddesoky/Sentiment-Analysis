@@ -11,6 +11,7 @@ This project determine the sentiment of messages in relation to specific entitie
   -Multiple ML Algorithms: K-Nearest Neighbors (KNN), Naive Bayes (NB), Descision Tree (DT), Support Vector Machine (SVM), Logistic Regression (LR), and Random Forest (RF). 
 
   -Deployment: User-friendly GUI for inputting messages and displaying results.
+  
       You can check out the live deployment of the app here: https://sentiment-analysis-gvumalfde5qghuwgwxdl3c.streamlit.app/
 
 * **Technologies Used**
